@@ -8,4 +8,4 @@
 
 [More info...](https://www.tools4ever.com/nim/)
 
-[Documentation](https://doc.nimsuite.com)
+[Documentation](https://docs.nimsuite.com)
