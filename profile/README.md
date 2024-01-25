@@ -3,10 +3,8 @@
 ![image](https://github.com/Tools4ever-NIM/.github/assets/24281600/e13a1152-6131-4395-9900-f7d4e6b5d404)
 
 
-<p>NIM is an on-premise tool that provides <strong>enterprise-level user provisioning capabilities</strong> for organizations looking for a flexible solution. With NIM, you can provision users in a matter of minutes and track changes throughout the entire process.</p>
-<p>As a specialized user provisioning tool for enterprises, it is optimized for <strong>performance and easy self-management</strong> for any size organization with complex multi-system environments, including multiple data sources and targets.</p>
-<p>Its <strong>simple menu-driven functionality</strong> allows you to filter data quickly, view impact analysis reports, and execute targeted lifecycle management across unlimited systems and exports with no scripting knowledge needed.</p>
-<p>NIM supports an unlimited number of source and target systems such as Active Directory, Azure AD, Google Workspace, UKG UltiPro, Oracle, and Office 365.</p></div>
+<p>NIM is a versatile on-premise Identity Management solution developed to simplify user provisioning for a wide range of organizations, including enterprises, small businesses, school districts, and universities seeking a customizable solution. This platform enables quick user onboarding and continuous monitoring of changes throughout the user lifecycle process. NIM is designed to handle the complexities of both corporate environments and educational institutions, accommodating multiple data sources and downstream target systems with ease.</p>
+<p>Emphasizing "Data-Driven Decision Making," NIM empowers IT departments to design and manage their user provisioning processes efficiently. This approach facilitates a streamlined workflow without the need for extensive scripting or external consultancy, making it an ideal choice for any organization of any size facing complex multi-system challenges.</p></div>
 
 [More info...](https://www.tools4ever.com/nim/)
 
